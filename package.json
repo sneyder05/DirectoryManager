@@ -1,0 +1,24 @@
+{
+  "name": "directory-manager",
+  "version": "1.0.0",
+  "description": "Directory Manager",
+  "main": "src/directories.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneyder05/DirectoryManager.git"
+  },
+  "keywords": [],
+  "author": "Fabian Navia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneyder05/DirectoryManager/issues"
+  },
+  "homepage": "https://github.com/sneyder05/DirectoryManager#readme",
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "^28.1.1"
+  }
+}
